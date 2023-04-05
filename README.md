@@ -13,3 +13,8 @@ MYSQL_USER=test
 MYSQL_PASSWORD=test
 MYSQL_DATABASE=test
 ```
+
+## Tips
+
+windowsのみ
+my.cnfは読み取り専用に変更しないと反映されない。
